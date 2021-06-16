@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.aoe2.pro/about/</loc>
+    <loc>https://aoe2.pro/about/</loc>
     <lastmod>2021-06-16T16:56:28+09:00</lastmod>
   </url><url>
-    <loc>https://blog.aoe2.pro/</loc>
+    <loc>https://aoe2.pro/</loc>
     <lastmod>2021-06-16T16:39:54+09:00</lastmod>
   </url><url>
-    <loc>https://blog.aoe2.pro/post/build-49656/</loc>
+    <loc>https://aoe2.pro/post/build-49656/</loc>
     <lastmod>2021-06-16T16:39:54+09:00</lastmod>
   </url><url>
-    <loc>https://blog.aoe2.pro/post/</loc>
+    <loc>https://aoe2.pro/post/</loc>
     <lastmod>2021-06-16T16:39:54+09:00</lastmod>
   </url><url>
-    <loc>https://blog.aoe2.pro/categories/</loc>
+    <loc>https://aoe2.pro/categories/</loc>
   </url><url>
-    <loc>https://blog.aoe2.pro/tags/</loc>
+    <loc>https://aoe2.pro/tags/</loc>
   </url>
 </urlset>

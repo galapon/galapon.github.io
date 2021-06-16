@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on AOE2:DEアップデート情報まとめ</title>
-    <link>https://blog.aoe2.pro/post/</link>
+    <link>https://aoe2.pro/post/</link>
     <description>Recent content in Posts on AOE2:DEアップデート情報まとめ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 16 Jun 2021 16:39:54 +0900</lastBuildDate><atom:link href="https://blog.aoe2.pro/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 16:39:54 +0900</lastBuildDate><atom:link href="https://aoe2.pro/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>June Update - Build # 49656</title>
-      <link>https://blog.aoe2.pro/post/build-49656/</link>
+      <link>https://aoe2.pro/post/build-49656/</link>
       <pubDate>Wed, 16 Jun 2021 16:39:54 +0900</pubDate>
       
-      <guid>https://blog.aoe2.pro/post/build-49656/</guid>
+      <guid>https://aoe2.pro/post/build-49656/</guid>
       <description>概要 ソース元記事はこちら
 6月のアップデートでは以下の変更が加えられます。
  CO-OPモードがキャンペーンモードで使えるようになり、協力プレイができるようになります エンパイアウォー モードがランク対象になります Capture Ageとの連携を強化 バグ修正 バランス変更 その他いろいろ  キャンペーンの協力プレイについて 公式ブログの記事でも紹介されている通り、現在Public Update Preview(PUP)にてキャンペーンの協力プレイが可能になっています。
