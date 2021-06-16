@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AOE2:DEアップデート情報まとめ</title>
-    <link>https://blog.aoe2.pro/</link>
-    <description>Recent content on AOE2:DEアップデート情報まとめ</description>
+    <title>Posts on AOE2:DEアップデート情報まとめ</title>
+    <link>https://blog.aoe2.pro/post/</link>
+    <description>Recent content in Posts on AOE2:DEアップデート情報まとめ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 16 Jun 2021 16:39:54 +0900</lastBuildDate><atom:link href="https://blog.aoe2.pro/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://blog.aoe2.pro/about/</link>
-      <pubDate>Wed, 16 Jun 2021 16:56:28 +0900</pubDate>
-      
-      <guid>https://blog.aoe2.pro/about/</guid>
-      <description>このサイトでは、AOE2:DEに関するアップデート情報をベストエフォートでまとめています。</description>
-    </item>
-    
+    <lastBuildDate>Wed, 16 Jun 2021 16:39:54 +0900</lastBuildDate><atom:link href="https://blog.aoe2.pro/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>June Update - Build # 49656</title>
       <link>https://blog.aoe2.pro/post/build-49656/</link>
